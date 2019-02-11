@@ -15,3 +15,7 @@ As I said before, just a test
 HI again
 
 ##How To Contribute
+
+###Copyright
+
+copyright me
