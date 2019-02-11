@@ -1,6 +1,7 @@
 #Starter Web Project
 
-This is a simple project, now changes are hapening from my feature branch for rebase
+This is a simple project, now changes are hapening from my feature branch for rebase.
+we change again from myfeature
 
 ##Introduction 
 
