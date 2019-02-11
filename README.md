@@ -1,5 +1,7 @@
 #Starter Web Project
 
+Adding an example for rebasing 
+
 This is a simple project
 
 ##Introduction 
