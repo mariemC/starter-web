@@ -1,8 +1,6 @@
 #Starter Web Project
 
-Adding an example for rebasing 
-
-This is a simple project
+This is a simple project, now changes are hapening from my feature branch
 
 ##Introduction 
 
